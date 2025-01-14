@@ -10,4 +10,6 @@ while (have_posts()){
     <hr>
     <?php
 }
+
+get_footer();
 ?>

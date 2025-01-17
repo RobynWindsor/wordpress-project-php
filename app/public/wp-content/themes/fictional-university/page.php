@@ -1,3 +1,6 @@
+<!-- This file gets pages , even though it says posts. Page.php gets pages not posts -->
+
+
 <?php
 get_header();
 while (have_posts()){
